@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487469848562",
+    "project_id": "medicinetracker-96f77",
+    "storage_bucket": "medicinetracker-96f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487469848562:android:da6338977071c4d8573d6b",
+        "android_client_info": {
+          "package_name": "com.medicineracker.medicine_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487469848562-4p56q8dm3fcvt7e96ki146eierinq2ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0UzAqPiQnc2-mGnVQPVaGAV9Kqk__UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487469848562-4p56q8dm3fcvt7e96ki146eierinq2ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
